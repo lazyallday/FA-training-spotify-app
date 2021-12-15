@@ -1,0 +1,9 @@
+.App {}
+
+.container {
+    padding: 10px;
+}
+
+.nav-active {
+    background: beige;
+}
